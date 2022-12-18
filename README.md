@@ -3,6 +3,7 @@ Scheduling a meeting is a really time-consuming task. We are planning to make th
 Discord bots are AI-driven tools that can help the user to automate tasks on your Discord server. They make it a lot easier to build a community that is truly engaged and can be used to moderate your server.
 
 Our team CodeBrews have created a Discord bot “Pluto bot” using JavaScript with the assistance of the tool Replit. We have taken the support of MongoDb database to store our datasets of dates.
+
 TECH STACKS
 -JavaScript
 -MongoDb
