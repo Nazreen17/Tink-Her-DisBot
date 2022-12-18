@@ -5,10 +5,10 @@ Discord bots are AI-driven tools that can help the user to automate tasks on you
 Our team CodeBrews have created a Discord bot “Pluto bot” using JavaScript with the assistance of the tool Replit. We have taken the support of MongoDb database to store our datasets of dates.
 
 TECH STACKS
--JavaScript
--MongoDb
--Python
--Discord API
+,JavaScript
+,MongoDb
+,Python
+,Discord API
 
 
 
